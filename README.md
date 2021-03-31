@@ -8,7 +8,7 @@ These programs were part of the Computer Engineering and Informatics Department 
 This was a group project.
 
 ## Exercises
-1.  Exercise 1
+1. Exercise 1
 	- Introductory exercise
 2. Exercise 2
 	- Add bytes
@@ -18,7 +18,7 @@ This was a group project.
 3. Exercise 3
 	- Study status register
 	- Calculate Fibonacci numbers
-	- Iterate consecutive memory addresses
+	- Access consecutive memory addresses
 4. Exercise 4
 	- Calculate mathematical expression
 	- Find maximum value
