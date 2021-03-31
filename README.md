@@ -5,8 +5,6 @@
 
 These programs were part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
 
-This was a group project.
-
 ## Exercises
 1. Exercise 1
 	- Introductory exercise
